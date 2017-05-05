@@ -8,5 +8,12 @@
 </head>
 <body>
 
+ <?php
+
+  $arrayName = array('' => , );
+
+  ?>
+
+
 </body>
 </html>
