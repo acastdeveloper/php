@@ -1,4 +1,6 @@
 <?php
+//Aquest és un fitxer de prova per provar que és correcte tot
+
 require_once('usuarios_model.php');
 # Traer los datos de un usuario
 $usuario1 = new Usuario();
